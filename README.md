@@ -1,5 +1,4 @@
 # merge-sort
-## Example
 ```shell=
 $ gcc merge_sort.c -o merge_sort
 $ ./merge_sort

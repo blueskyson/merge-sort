@@ -17,3 +17,13 @@ please input amounts of number and max value
 orig order: 72  58  23   4  91  31  11  63  64  26  31  99  62  60  66  52  97  61  16   6 
 new order:  4   6  11  16  23  26  31  31  52  58  60  61  62  63  64  66  72  91  97  99 
 ```
+# heap-sort
+```shell=
+$ gcc heap_sort.c -o heap_sort
+$ ./heap_sort
+please input amount and max value:20 500
+orig order:
+  176  308   53  101  181   97  492   35  290  328  273  378  292  230  335  199  489  244  228  416
+sorted order:
+   35   53   97  101  176  181  199  228  230  244  273  290  292  308  328  335  378  416  489  492
+```

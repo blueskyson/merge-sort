@@ -27,3 +27,15 @@ orig order:
 sorted order:
    35   53   97  101  176  181  199  228  230  244  273  290  292  308  328  335  378  416  489  492
 ```
+# radix-sort
+```shell=
+$ gcc radix_sort.c -o radix_sort
+$ ./radix_sort
+```shell=
+Please input amount and max value: 20 500
+orig order:
+ 251 236 75 231 348 355 305 251 263 121 381 473 312 438 246 435 18 59 190 220
+
+sorted order:
+ 18 59 75 121 190 220 231 236 246 251 251 263 305 312 348 355 381 435 438 473
+ ```

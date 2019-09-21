@@ -31,7 +31,6 @@ sorted order:
 ```shell=
 $ gcc radix_sort.c -o radix_sort
 $ ./radix_sort
-```shell=
 Please input amount and max value: 20 500
 orig order:
  251 236 75 231 348 355 305 251 263 121 381 473 312 438 246 435 18 59 190 220

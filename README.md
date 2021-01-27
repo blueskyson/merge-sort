@@ -44,7 +44,7 @@ sorted order:
 
 # external 2-way merge sort
 
-Change the value the macro `PAGE_SIZE` to control the size of one page, 10 numbers per page by default.
+Change the macro `PAGE_SIZE` to control the size of one page, 10 numbers per page by default.
 
 ```
 $ g++ 2-way-merge-sort.cpp -o 2-way-merge-sort
